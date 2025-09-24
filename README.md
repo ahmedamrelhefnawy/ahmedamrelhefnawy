@@ -20,18 +20,6 @@ I'm an Undergraduate AI Engineer specializing in Natural Language Processing (NL
 <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white" alt="Azure"/>
 </div>
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedamrelhefnawy&show_icons=true&theme=nord" alt="GitHub Stats"/>
-</div>
-
-## LeetCode Stats
-
-<div align="center">
-    <img src="https://leetcard.jacoblin.cool/ahmedelhefnawy2003?theme=nord&font=Defualt&ext=heatmap" alt="LeetCode Stats"/>
-</div>
-
 ## Connect with Me
 
 <div align="center">
