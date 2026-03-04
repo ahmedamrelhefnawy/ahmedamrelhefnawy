@@ -41,7 +41,7 @@ into scalable AI systems.
 
 ## 🚀 Highlighted & Innovative Projects
 
-### 🗂️ [Mini-RAG](Link) — End‑to‑End RAG System
+### 🗂️ [Mini-RAG](https://github.com/ahmedamrelhefnawy/mini-rag) — End‑to‑End RAG System
 
 - Extensible MVC architecture with **FastAPI async** for document ingestion and retrieval
 - Persistent storage with **PostgreSQL, PGVector, SQLAlchemy, Alembic**, migrated from Qdrant and MongoDB
