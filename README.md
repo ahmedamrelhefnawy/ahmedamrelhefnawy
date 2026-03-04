@@ -41,6 +41,13 @@ into scalable AI systems.
 
 ## 🚀 Highlighted & Innovative Projects
 
+### 🗂️ [Mini-RAG](Link) — End‑to‑End RAG System
+
+- Extensible MVC architecture with **FastAPI async** for document ingestion and retrieval
+- Persistent storage with **PostgreSQL, PGVector, SQLAlchemy, Alembic**, migrated from Qdrant and MongoDB
+- Containerized via **Docker Compose**, with structured logging and configuration management
+- Text chunking with overlap, API documentation via **Postman**
+
 ### 🤖 [HireBot](https://github.com/DEPI-Mega-Team/HireBot) — AI Interview Preparation Chatbot
 
 - LLM-powered chatbot for technical & behavioral interviews
