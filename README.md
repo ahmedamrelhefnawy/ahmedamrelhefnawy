@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ahmed Elhefnawy
 
-### Undergraduate NLP & AI Engineer \| LLM Applications Enthusiast
+### NLP & AI Engineer \| LLM Applications Enthusiast
 
-I'm an **Undergraduate AI Engineer specialized in Natural Language
+I'm an **AI Engineer specialized in Natural Language
 Processing (NLP)**, with a strong interest in **Large Language Models
 (LLMs)** and their real-world applications such as **RAG systems,
 semantic search, chatbots, recommender systems,** and more.
