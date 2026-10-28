@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Ahmed Elhefnawy
 
-### NLP & AI Engineer \| LLM Applications Enthusiast
+### AI Engineer
 
 I'm an **AI Engineer specialized in Natural Language
 Processing (NLP)**, with a strong interest in **Large Language Models
 (LLMs)** and their real-world applications such as **RAG systems,
 semantic search, chatbots, recommender systems,** and more.
 
-I focus on **building production-ready NLP solutions** for businesses
+I focus on **building production-ready AI solutions** for businesses
 and community-driven use cases.\
 Python is my primary language, and I enjoy transforming research ideas
 into scalable AI systems.
